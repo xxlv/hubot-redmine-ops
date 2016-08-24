@@ -27,4 +27,4 @@ hubot>> hello!
 
 ## NPM Module
 
-https://www.npmjs.com/package/hubot-redmine
+https://www.npmjs.com/package/hubot-redmine-ops
