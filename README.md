@@ -10,7 +10,7 @@ In hubot project repo, run:
 
 `npm install hubot-redmine-ops --save`
 
-Then add **hubot-redmine** to your `external-scripts.json`:
+Then add **hubot-redmine-ops** to your `external-scripts.json`:
 
 ```json
 [
