@@ -1,5 +1,7 @@
 # hubot-redmine-ops
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xxlv/hubot-redmine-ops.svg)](https://greenkeeper.io/)
+
 A hubot script that does the things
 
 See [`src/redmine.coffee`](src/redmine.coffee) for full documentation.
